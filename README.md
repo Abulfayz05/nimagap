@@ -1,0 +1,2 @@
+# nimagap
+Trend web platforma
