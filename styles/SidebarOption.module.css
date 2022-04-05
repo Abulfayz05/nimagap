@@ -1,0 +1,23 @@
+.wrapper {
+  display: flex;
+  padding: 10px;
+  transition-property: all;
+  display: flex;
+  align-items: center;
+  width: min-content;
+  cursor: pointer;
+}
+
+.iconContainer {
+  margin-right: 10px;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.textGeneral {
+  font-weight: 500;
+}
+
+.textActive {
+  font-weight: bold;
+}
